@@ -8,7 +8,7 @@ GraphViz) in JavaScript.
 # Vision
 
 While GraphViz has fantastic layout algorithm, it is limited in the available
-output formats and lacks dynamic features. The hops is that with HTML+Javascript we can benefit from that ecosystem:
+output formats and lacks dynamic features. The hope is that with HTML+Javascript we can benefit from that ecosystem:
 
 * Should be able to produce self-contained files by copying the layout
   library. Eliminating installation steps of graphviz/image viewers for users.
